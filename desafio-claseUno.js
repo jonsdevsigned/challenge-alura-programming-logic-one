@@ -40,4 +40,3 @@ age = prompt("Ingrese su edad, por favor");
 if (age >= 18) {
   alert("!Puedes obtener tu licencia de conducir!");
 }
-
